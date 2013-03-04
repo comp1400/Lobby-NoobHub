@@ -5,6 +5,8 @@
 -----------------------------------------------------------------------------------------
 
 -- Lobby Example Using NoobHub (https://github.com/Overtorment/NoobHub)
+-- Sample code is MIT licensed, see http://www.coronalabs.com/links/code/license
+-- Copyright (C) 2013 Minion Multimedia. All Rights Reserved.
 
 widget = require "widget"
 require("noobhub")
